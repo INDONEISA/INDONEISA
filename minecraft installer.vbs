@@ -1,0 +1,8 @@
+X=MsgBox("Do you want to install free minecraft?",4+64,"Installer")
+X=MsgBox("Your %appdata% files will be reset!",3+48,"Warning")
+X=MsgBox("Installing...",0+64,"Installer")
+X=MsgBox("copying files...",0+64,"Installer")
+X=MsgBox("copying %appdata%...",0+64,"Installer")
+X=MsgBox("copying .minecraft...",0+64,"Installer")
+X=MsgBox("copying all .minecraft folders...",0+64,"Installer")
+X=MsgBox("successful installed minecraft!",0+64,"Installer")
